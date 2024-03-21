@@ -1,5 +1,4 @@
 # Property-Management-Dashboard---Power-BI
-
 The Real Estate Analysis Dashboard in Power BI offers a comprehensive overview of the real estate industry's key metrics and trends. This specialized dashboard visualizes critical data points, enabling professionals in the real estate sector to make informed decisions, identify opportunities, and understand market dynamics.
 
 Dashboard Components:
